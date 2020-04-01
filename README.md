@@ -1,2 +1,4 @@
 # minimaxAI
- 
+  
+
+IDK lol
