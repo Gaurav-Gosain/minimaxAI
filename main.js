@@ -80,7 +80,7 @@ function mousePressed() {
 }
 
 function draw() {
-  background(255);
+  background(200);
   strokeWeight(4);
 
   line(w, 0, w, height);
